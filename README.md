@@ -1,6 +1,6 @@
 # National Coordination Point of Research Data Management
 
-<img src="/SURF-LCRDM.png" alt="Radboud University Library" width="500">
+<img src="/SURF-LCRDM.png" alt="Radboud University Library" width="800">
 
 Welcome tot the GitHub space of LCRDM. This is where we will share utilities to the benefit of those in the RDM field who would like to reuse resources.
 
